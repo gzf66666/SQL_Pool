@@ -1,9 +1,6 @@
 # SQL_Pool
 mysql 数据库连接池
 
-@[toc]
-
-
 作者：gzf66666
 
 邮箱：gzf66666@foxmail.com
